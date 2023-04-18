@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.StaffManagement" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Theme color. -->
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorPrimaryGreen</item>
+        <item name="colorSecondaryVariant">@color/green_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar. -->
+        <item name="android:statusBarColor">@color/colorPrimaryGreenDark</item>
+
+        <!-- Customize your theme here. -->
+        <item name="colorTertiary">@color/white</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+
+</resources>
